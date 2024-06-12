@@ -1,15 +1,21 @@
-button {
+.button {
     border-radius: 3px;
     padding: 5px 24px;
     background-color: #06c;
+    border: none;
+    color: white;
 }
 
 .disabled {
     background: #004d99;
     opacity: 0.5;
+    color: black;
 }
 
 .secondary {
+    background:none;
+    border: 1px solid #06c;
+    color: #06c;
 }
 
 .default {
