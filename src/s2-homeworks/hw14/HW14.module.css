@@ -1,7 +1,12 @@
+.block {
+    max-width: 370px;
+}
+
 .tech {
 
 }
 
 .loading {
-
+    text-align: end;
+    color: gray;
 }
